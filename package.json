@@ -1,0 +1,23 @@
+{
+  "name": "koa-test",
+  "version": "0.0.1",
+  "description": "Just trying make simple project on koa.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nihi1anth/koa-test.git"
+  },
+  "author": "nihi1anth <ishaltbecome@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nihi1anth/koa-test/issues"
+  },
+  "homepage": "https://github.com/Nihi1anth/koa-test#readme",
+  "dependencies": {
+    "koa": "^2.10.0",
+    "koa-router": "^7.4.0"
+  }
+}
